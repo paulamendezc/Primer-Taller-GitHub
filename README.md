@@ -3,6 +3,7 @@
 #### Julian Sanz, 202620978
 #### Gabriela Ruiz, 202516875
 #### María Alejandra Alvarado, 202510182
+#### Paula Méndez, 202520720
 
 #### Cada uno ponga su nombre y codigo
 
@@ -60,8 +61,6 @@ La recolección de datos puede verse en tablas cómo estas:
 
 ## Presentación de resultados 
 Para presentar resultado se pueden utilizar gráficas de este estilo: 
-
-
 <img width="476" height="285" alt="Gráfica_ejemplo" src="https://github.com/user-attachments/assets/6361f5bc-1cec-4f76-8e50-bd282f7c8ef5" />
 
 ## Referencias bibliográficas
@@ -69,4 +68,3 @@ Acá iría una lista de las referencias utilizadas en formato APA, algo así:
 1. Apellido I. (Mes y año), "Titulo de artíuclo". Tomado de LINK
 2. Apellido I. (Mes y año), "Titulo de artíuclo". Tomado de LINK
 
-> Pie de pagina
