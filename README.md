@@ -5,7 +5,7 @@
 #### María Alejandra Alvarado, 202510182
 #### Paula Méndez, 202520720
 
-#### Cada uno ponga su nombre y codigo
+
 
 ## Descripción del proyecto
 Este proyecto busca analizar el precio comercial de los carros en Colombia en el pasado, evaluando diversas variables y las relaciones entre ellas; para después predecir la depresiación y el valor de un vehiculo determinado. 
